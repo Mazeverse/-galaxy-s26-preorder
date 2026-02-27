@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://username.github.io/galaxy-s26-preorder/sitemap.xml
+Sitemap: https://galaxy-s26-preorder.vercel.app/sitemap.xml
